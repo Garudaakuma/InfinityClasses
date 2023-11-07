@@ -1,0 +1,10 @@
+Notion:
+link → ...
+
+Zap do professor Renan:
++55 71 8272-5298
+
+Exercicios de programação:
+    PythonProgressivo   → https://www.pythonprogressivo.net/
+    HackerRank          → https://www.hackerrank.com/
+    Codewars            → https://www.codewars.com/

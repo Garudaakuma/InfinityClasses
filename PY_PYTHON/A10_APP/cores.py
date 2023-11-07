@@ -1,0 +1,5 @@
+cor0 = "#0f0c0a"        #'''cor0'''
+cor1 = "#feffff"        #'''cor1'''
+cor2 = "#3fb5a3"        #'''cor2'''  
+cor3 = "#38576b"        #'''cor3'''
+cor4 = "#403d3d"        #'''cor4'''
